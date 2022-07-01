@@ -1,3 +1,5 @@
+// Uses two buttons: one to raise the brighness of an LED, and another to lower its brightness
+
 // DIRECTIONS
 
 // BUTTON (do this twice, for each button)
