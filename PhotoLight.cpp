@@ -2,6 +2,7 @@
 
 // DIRECTIONS
 // Connect photoresistor in series with 5 volt source, 10k ohm resistor, and ground
+// Connect a read pin in the same column as the photoresistor and the 10k resistor and connect it to pin A0
 // Connect red LED in series with 330 ohm resistor and ground
 // Connect green LED in series with 330 ohm resistor and ground
 
