@@ -8,7 +8,7 @@
 // Connect the button to ground
 
 // LED
-// Connect a red LED in series with a 330 ohm resistor and ground
+// Connect a red LED in pin 8 in series with a 330 ohm resistor and ground
 
 const int RED = 8;
 const int BUTTON = 12;
