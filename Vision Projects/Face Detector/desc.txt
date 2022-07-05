@@ -1,0 +1,1 @@
+This project will detect faces and turn on an LED when it detects one
