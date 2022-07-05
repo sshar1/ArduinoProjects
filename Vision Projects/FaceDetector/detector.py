@@ -2,7 +2,7 @@ import cv2 as cv
 from cvzone.FaceDetectionModule import FaceDetector
 from cvzone.SerialModule import SerialObject
 
-cap = cv.VideoCapture('Imgs\Quiet_Woman_Alone_Personal_Reflection_and_Busy_Mind_Concept.mov')
+cap = cv.VideoCapture(0) # Change number based on camera
 
 detector = FaceDetector()
 arduino = SerialObject()
