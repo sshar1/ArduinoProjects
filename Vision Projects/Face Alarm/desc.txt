@@ -1,0 +1,5 @@
+This project will turn on an "alarm" when a face is detected in the camera frame of a webcam. 
+
+The alarm consists of 6 LEDs turning on and off as well as an active buzzer that oscilates in pitch
+
+The urgency of the alarm can be changed with a potentiometer that changes the pitch of the buzzer and the period of the alarm
