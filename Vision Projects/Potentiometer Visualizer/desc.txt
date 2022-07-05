@@ -1,0 +1,1 @@
+This project will detect the state of a potentiometer and visualize it on a picture
